@@ -1,0 +1,17 @@
+Server1,Database,MySQL,12.0
+Server2,Database,MySQL,12.0
+Server1,Database,MySQL,12.0
+Server2,Database,MySQL,12.0
+Server1,Database,MySQL,12.0
+Server2,Database,MySQL,12.0
+Server1,Database,MySQL,13.0
+Server3,OS,Ubuntu,10.5.21
+Server1,OS,Ubuntu,10.5.2
+Server1,OS,Ubuntu,10.5
+Server2,OS,Ubuntu,10.5.10
+Server3,Language,Python,2.6.2
+Server3,Language,Python,2.6.3
+Server3,Language,Python,2.6.2
+Server3,Language,JAVA,2.6.3
+Server3,Language,JAVA,2.6.3
+Server3,Language,JAVA,2.6.2
